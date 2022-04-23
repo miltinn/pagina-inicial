@@ -1,8 +1,8 @@
-#Milton Augusto de Paula
-##Apresentação
+# Milton Augusto de Paula
+## Apresentação
 Olá, meu nome é Milton, estou atualmente brincando com C++, JavaScript e Git, para eventualmente criar um portfólio bonitinho aqui. Seguem as etapas:
 
-####Checklist:
+#### Checklist:
 - [ ] Aprender a usar Git
 - [ ] Aprender a usar GitHub
 - [ ] Fazer projetos legais em C++
